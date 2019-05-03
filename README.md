@@ -2,10 +2,14 @@
 
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
 - `BRB`: Be Right Back. It's more "I will be right back" but I don't know why English speakers omit the first two letters. It should be IWBRB but whatever.
-- `IIRC`: If I Recall Correctly
+- `EMEA`: Europe, Middle East and Africa regions. Best area, because I am in it.
 - `FFS`: For Fuck Sake!
+- `FML`: Fuck My Life. Say this whenever webpack doesn't work after 3 hours of debugging.
 - `HM`: Human Made, a japanese clothing brand: https://humanmade.jp/. Visit it! They are great!
+- `IIRC`: If I Recall Correctly. Said when you don't have idea of what you're talking about.
+- `IKR`: I know, right? Keep your ego high.
 - `OMG`: Seriously, you don't know this one?
+- `OMFG`: Same than the previous one but insert an extra Fucking in the middle.
 - `PO`: Product Owner. Its' like Edgar Allan Poe without the Edgar, Allan, neither the 'e' at the end.
 - `POC`: Proof Of Concept. When you start a project in a quick way, with no real testing at all, non-legible code written fast until it becomes a real project and is too late to fix all that garbage.
 - `RIP`: Rest In Peace. Those are bad news, normally.
