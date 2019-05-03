@@ -5,13 +5,20 @@
 - `AFAIK`: As Far As I Know. "I know nothing but take this as an undeniable truth and good luck"
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
 - `BRB`: Be Right Back. It's more "I will be right back" but I don't know why English speakers omit the first two letters. It should be IWBRB but whatever.
+- `BTW`: By The Way. Said when you want to talk about a completely different topic and confuse people.
 - `EMEA`: Europe, Middle East and Africa regions. Best area, because I am in it.
 - `FFS`: For Fuck Sake!
 - `FML`: Fuck My Life. Say this whenever webpack doesn't work after 3 hours of debugging.
+- `FTW`: For The Win. Used in a sarcastic way sounds much better.
+- `FWIW`: For What It's Worth. When you provide completely useless information to somebody. 
 - `HM`: Human Made, a japanese clothing brand: https://humanmade.jp/. Visit it! They are great!
+- `IANAL`: Phew! This one almost sounds really bad, eh? But no, it's "I am not a lawyer", when you talk about legal stuff but you, OFC, don't have a clue of what you're saying.
 - `I18N`: i18n, I don't have time to write it all. https://whatis.techtarget.com/definition/internationalization-I18N
 - `IIRC`: If I Recall Correctly. Said when you don't have idea of what you're talking about.
 - `IKR`: I know, right? Keep your ego high.
+- `IMO`: In My Opinion. Said when someone is scared of its own opinion.
+- `IMHO`: In My Honest Opinion. When saying an opinion is even scarier.
+- `L6N`: Location. Use it if you are extremely lazy when typing.
 - `LOL`: hahaha. Laughing Out Loud while you keep your face completely serious in front of your screen.
 - `OFC`: Of course!
 - `OMFG`: Same than `OMG` but insert an extra Fucking in the middle.
@@ -20,6 +27,7 @@
 - `POC`: Proof Of Concept. When you start a project in a quick way, with no real testing at all, non-legible code written fast until it becomes a real project and is too late to fix all that garbage.
 - `RIP`: Rest In Peace. Those are bad news, normally.
 - `ROFL`: hahahahahahahahahahhahahahahahahahahahhahhahhahahahahhaahahahahaahhahaahahaha. Rolling On Floor Laughing while you keep your face completely serious in front of your screen.
+- `STFU`: Shut The Fuck Up. Not used too often in Slack but probably thought very often.
 - `UK`: A used-to-be-european country.
 - `SoW`: It's not a saw, it's just a Statement of Work. Copied and pasted from some random site: `Detailed description of the specific services or tasks a contractor is required to perform under a contract. SOW is usually incorporated in a contract, indirectly by reference or directly as an attachment.`
 - `WC`: WordCamp. Where people that do WordPress talk about WordPress all the time. Example: "Excuse me, where is the WC in this WC venue?"
