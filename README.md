@@ -1,6 +1,6 @@
 # Acronyms
 
-- `A11Y`: a11y, it's too long. https://www.techopedia.com/definition/10165/accessibility-a11y
+- `A11Y`: a11y, it's too long to type. https://www.techopedia.com/definition/10165/accessibility-a11y
 - `A8C`: Automattic, many people think that is the one that owns WordPress.
 - `AFAIK`: As Far As I Know. "I know nothing but take this as an undeniable truth and good luck"
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
@@ -10,7 +10,7 @@
 - `FFS`: For Fuck Sake!
 - `FML`: Fuck My Life. Say this whenever webpack doesn't work after 3 hours of debugging.
 - `FTW`: For The Win. Used in a sarcastic way sounds much better.
-- `FWIW`: For What It's Worth. When you provide completely useless information to somebody. 
+- `FWIW`: For What It's Worth. When you provide completely useless information to somebody.
 - `HM`: Human Made, a japanese clothing brand: https://humanmade.jp/. Visit it! They are great!
 - `IANAL`: Phew! This one almost sounds really bad, eh? But no, it's "I am not a lawyer", when you talk about legal stuff but you, OFC, don't have a clue of what you're saying.
 - `I18N`: i18n, I don't have time to write it all. https://whatis.techtarget.com/definition/internationalization-I18N
@@ -20,6 +20,7 @@
 - `IMHO`: In My Honest Opinion. When saying an opinion is even scarier.
 - `L6N`: Location. Use it if you are extremely lazy when typing.
 - `LOL`: hahaha. Laughing Out Loud while you keep your face completely serious in front of your screen.
+- `MSA`: Master Services Agreement - a huge lump of legal contract with terms and conditions - usually signed every couple of years after a lot of arguments and then never looked at again. dixit @meeware.
 - `OFC`: Of course!
 - `OMFG`: Same than `OMG` but insert an extra Fucking in the middle.
 - `OMG`: Seriously, you don't know this one?
@@ -27,9 +28,10 @@
 - `POC`: Proof Of Concept. When you start a project in a quick way, with no real testing at all, non-legible code written fast until it becomes a real project and is too late to fix all that garbage.
 - `RIP`: Rest In Peace. Those are bad news, normally.
 - `ROFL`: hahahahahahahahahahhahahahahahahahahahhahhahhahahahahhaahahahahaahhahaahahaha. Rolling On Floor Laughing while you keep your face completely serious in front of your screen.
+- `SOZ`: Sorry when you are uneager to say sorry.
 - `STFU`: Shut The Fuck Up. Not used too often in Slack but probably thought very often.
-- `UK`: A used-to-be-european country.
 - `SoW`: It's not a saw, it's just a Statement of Work. Copied and pasted from some random site: `Detailed description of the specific services or tasks a contractor is required to perform under a contract. SOW is usually incorporated in a contract, indirectly by reference or directly as an attachment.`
+- `UK`: A used-to-be-european country.
 - `WC`: WordCamp. Where people that do WordPress talk about WordPress all the time. Example: "Excuse me, where is the WC in this WC venue?"
 - `WCEU`: WordCamp Europe. Same thing but with more people from Europe and many other countries outside Europe, if that makes sense.
 - `WCUS`: WordCamp USA. I should probably be named as WC America but I don't know who is in charge of that.
