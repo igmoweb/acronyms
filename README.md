@@ -1,5 +1,6 @@
 # Acronyms
 
+- `AFAIK`: As Far As I Know. "I know nothing but take this as an undeniable truth and good luck"
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
 - `BRB`: Be Right Back. It's more "I will be right back" but I don't know why English speakers omit the first two letters. It should be IWBRB but whatever.
 - `EMEA`: Europe, Middle East and Africa regions. Best area, because I am in it.
