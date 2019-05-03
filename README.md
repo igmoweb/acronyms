@@ -1,5 +1,6 @@
 # Acronyms
 
+- AFK: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
 - IIRC: If I Recall Correctly
 - FFS: For Fuck Sake!
 - RIP: Rest In Peace. Those are bad news, normally.
