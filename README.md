@@ -11,6 +11,6 @@
 - `RIP`: Rest In Peace. Those are bad news, normally.
 - `UK`: A used-to-be-european country.
 - `SoW`: It's not a saw, it's just a Statement of Work. Copied and pasted from some random site: `Detailed description of the specific services or tasks a contractor is required to perform under a contract. SOW is usually incorporated in a contract, indirectly by reference or directly as an attachment.`
-- `WC`: WordCamp. Where people that does WordPress talk about WordPress all the time. Example: "Excuse me, where is the WC in this WC venue?"
+- `WC`: WordCamp. Where people that do WordPress talk about WordPress all the time. Example: "Excuse me, where is the WC in this WC venue?"
 - `WCEU`: WordCamp Europe. Same thing but with more people from Europe and many other countries outside Europe, if that makes sense.
 - `WCUS`: WordCamp USA. I should probably be named as WC America but I don't know who is in charge of that.
