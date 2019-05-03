@@ -1,5 +1,7 @@
 # Acronyms
 
+- `A11Y`: a11y, it's too long. https://www.techopedia.com/definition/10165/accessibility-a11y
+- `A8C`: Automattic, many people think that is the one that owns WordPress.
 - `AFAIK`: As Far As I Know. "I know nothing but take this as an undeniable truth and good luck"
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
 - `BRB`: Be Right Back. It's more "I will be right back" but I don't know why English speakers omit the first two letters. It should be IWBRB but whatever.
@@ -7,6 +9,7 @@
 - `FFS`: For Fuck Sake!
 - `FML`: Fuck My Life. Say this whenever webpack doesn't work after 3 hours of debugging.
 - `HM`: Human Made, a japanese clothing brand: https://humanmade.jp/. Visit it! They are great!
+- `I18N`: i18n, I don't have time to write it all. https://whatis.techtarget.com/definition/internationalization-I18N
 - `IIRC`: If I Recall Correctly. Said when you don't have idea of what you're talking about.
 - `IKR`: I know, right? Keep your ego high.
 - `LOL`: hahaha. Laughing Out Loud while you keep your face completely serious in front of your screen.
