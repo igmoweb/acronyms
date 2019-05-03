@@ -10,6 +10,7 @@
 - `IIRC`: If I Recall Correctly. Said when you don't have idea of what you're talking about.
 - `IKR`: I know, right? Keep your ego high.
 - `LOL`: hahaha. Laughing Out Loud while you keep your face completely serious in front of your screen.
+- `OFC`: Of course!
 - `OMFG`: Same than `OMG` but insert an extra Fucking in the middle.
 - `OMG`: Seriously, you don't know this one?
 - `PO`: Product Owner. Its' like Edgar Allan Poe without the Edgar, Allan, neither the 'e' at the end.
