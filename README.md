@@ -8,8 +8,8 @@
 - `HM`: Human Made, a japanese clothing brand: https://humanmade.jp/. Visit it! They are great!
 - `IIRC`: If I Recall Correctly. Said when you don't have idea of what you're talking about.
 - `IKR`: I know, right? Keep your ego high.
-- `OMG`: Seriously, you don't know this one?
 - `OMFG`: Same than the previous one but insert an extra Fucking in the middle.
+- `OMG`: Seriously, you don't know this one?
 - `PO`: Product Owner. Its' like Edgar Allan Poe without the Edgar, Allan, neither the 'e' at the end.
 - `POC`: Proof Of Concept. When you start a project in a quick way, with no real testing at all, non-legible code written fast until it becomes a real project and is too late to fix all that garbage.
 - `RIP`: Rest In Peace. Those are bad news, normally.
