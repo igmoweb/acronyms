@@ -4,6 +4,8 @@
 - `A8C`: Automattic, many people think that is the one that owns WordPress.
 - `AFAIK`: As Far As I Know. "I know nothing but take this as an undeniable truth and good luck"
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
+- `BBIAB`: Be Back In a Bit. Probably more than "a bit".
+- `BIAB`: Be Back In a Bit. Why the hell do we have two for the same thing?!
 - `BRB`: Be Right Back. It's more "I will be right back" but I don't know why English speakers omit the first two letters. It should be IWBRB but whatever.
 - `BTW`: By The Way. Said when you want to talk about a completely different topic and confuse people.
 - `EMEA`: Europe, Middle East and Africa regions. Best area, because I am in it.
@@ -24,6 +26,7 @@
 - `OFC`: Of course!
 - `OMFG`: Same than `OMG` but insert an extra Fucking in the middle.
 - `OMG`: Seriously, you don't know this one?
+- `OMFGBBQ`: They told me it was `OMFG` + Barbecue. `¯\_(ツ)_/¯`
 - `PO`: Product Owner. Its' like Edgar Allan Poe without the Edgar, Allan, neither the 'e' at the end.
 - `POC`: Proof Of Concept. When you start a project in a quick way, with no real testing at all, non-legible code written fast until it becomes a real project and is too late to fix all that garbage.
 - `RIP`: Rest In Peace. Those are bad news, normally.
@@ -36,3 +39,9 @@
 - `WCEU`: WordCamp Europe. Same thing but with more people from Europe and many other countries outside Europe, if that makes sense.
 - `WCUS`: WordCamp USA. I should probably be named as WC America but I don't know who is in charge of that.
 - `WP`: Wordpress but with capital P, dangit!
+
+# Contributing
+
+This repo is open for contributions. Just open a PR if you wish.
+
+**Note**: `WTF` has been requested several times as an addition. We are sorry but we don't accept `WTF` as we consider it as _plugin territory_.
