@@ -5,11 +5,13 @@
 - `AFAIK`: As Far As I Know. "I know nothing but take this as an undeniable truth and good luck"
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
 - `APAC`: Asia Pacific Region.
+- `BAU`: Bussiness as usual. This is good, or not.
 - `BBIAB`: Be Back In a Bit. Probably more than "a bit".
 - `BIAB`: Be Back In a Bit. Why the hell do we have two for the same thing?!
 - `BRB`: Be Right Back. It's more "I will be right back" but I don't know why English speakers omit the first two letters. It should be IWBRB but whatever.
 - `BTW`: By The Way. Said when you want to talk about a completely different topic and confuse people.
 - `EMEA`: Europe, Middle East and Africa regions. Best area, because I am in it.
+- `EOB`: End Of Bussiness. This is not good. Or yes.
 - `FFS`: For Fuck Sake!
 - `FML`: Fuck My Life. Say this whenever webpack doesn't work after 3 hours of debugging.
 - `FTW`: For The Win. Used in a sarcastic way sounds much better.
