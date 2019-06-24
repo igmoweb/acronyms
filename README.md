@@ -47,7 +47,7 @@
 - `WCEU`: WordCamp Europe. Same thing but with more people from Europe and many other countries outside Europe, if that makes sense.
 - `WCUS`: WordCamp USA. I should probably be named as WC America but I don't know who is in charge of that.
 - `WP`: Wordpress but with capital P, dangit!
-- `YMMV`: Your Mileage May Vary. It worked for me but probably won't for you.
+- `YMMV`: Your Mileage May Vary. It worked for me but might not for you.
 
 # Contributing
 
