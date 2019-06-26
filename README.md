@@ -5,6 +5,7 @@
 - `AFAIK`: As Far As I Know. "I know nothing but take this as an undeniable truth and good luck"
 - `AFK`: Away From Keyboard. Use it whenever you don't have an valid excuse to stop working and have a drinky.
 - `APAC`: Asia Pacific Region.
+- `AWOL`: Absent Without Official Leave. Something is missing somewhere or somebody has defected but that's unlikable in a civil environment.
 - `BAU`: Bussiness as usual. This is good, or not.
 - `BBIAB`: Be Back In a Bit. Probably more than "a bit".
 - `BIAB`: Be Back In a Bit. Why the hell do we have two for the same thing?!
