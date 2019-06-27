@@ -11,6 +11,7 @@
 - `BIAB`: Be Back In a Bit. Why the hell do we have two for the same thing?!
 - `BRB`: Be Right Back. It's more "I will be right back" but I don't know why English speakers omit the first two letters. It should be IWBRB but whatever.
 - `BTW`: By The Way. Said when you want to talk about a completely different topic and confuse people.
+- `DEFO`: Oh definitly, for sure.
 - `EMEA`: Europe, Middle East and Africa regions. Best area, because I am in it.
 - `EOB`: End Of Bussiness. This is not good. Or yes.
 - `FFS`: For Fuck Sake!
