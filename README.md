@@ -30,6 +30,7 @@
 - `L6N`: Location. Use it if you are extremely lazy when typing.
 - `LOL`: hahaha. Laughing Out Loud while you keep your face completely serious in front of your screen.
 - `MSA`: Master Services Agreement - a huge lump of legal contract with terms and conditions - usually signed every couple of years after a lot of arguments and then never looked at again. dixit [*@meeware*](https://github.com/meeware).
+- `MVP`: Minimum Viable Product, nothing to do with sports.
 - `OFC`: Of course!
 - `OMFG`: Same than `OMG` but insert an extra Fucking in the middle.
 - `OMG`: Seriously, you don't know this one?
